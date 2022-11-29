@@ -2,7 +2,7 @@
 - 👀 I’m interested in queuing theory in wireless networks and data mining
 - 🌱 I’m currently learning Node and functional programming with Haskell
 - 💞️ I’m looking to collaborate on queuing theory in wireless networks research and data mining projects
-- 📫 How to reach me eugene.owilla@metu.edu.tr
+- 📫 How to reach me: ecowilla@gmail.com
 
 <!---
 eugenecasmin/eugenecasmin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
